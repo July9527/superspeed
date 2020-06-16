@@ -8,4 +8,4 @@
 bash <(curl -Lso- https://git.io/superspeed)
 ```
 
-forked from ernisn/superspeed
+## forked from ernisn/superspeed
